@@ -18,4 +18,5 @@ Recipes in List format
 Images/Description/Ingredients/How to make
 Search Engine
 Filters
+Premium Feature Screen/Payment Gateway/Documentation 
 
