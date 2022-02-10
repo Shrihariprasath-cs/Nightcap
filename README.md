@@ -11,12 +11,12 @@ The important feature in this application is you find a recipe by adding the ing
 **Wireframes/Prototypes/Designs**: Figma & Adobe XD
 
 **Milestones**
-Wireframes/Prototypes
-Data Collection
-Login/SignUp
-Recipes in List format
-Images/Description/Ingredients/How to make
-Search Engine
-Filters
-Premium Feature Screen/Payment Gateway/Documentation 
+Wireframes/Prototypes,
+Data Collection,
+Login/SignUp,
+Recipes in List format(Homepage),
+Images/Description/Ingredients/How to make(Recipe screens),
+Search Engine,
+Filters,
+Premium Feature Screen/Payment Gateway/Documentation.
 
